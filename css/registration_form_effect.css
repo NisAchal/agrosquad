@@ -1,0 +1,127 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body
+{
+	background: url(../images/try.jpg);
+	background-position: center;
+	background-size: contain;
+	background-attachment: fixed;
+	font-family: new time roman;
+}
+
+h1
+{
+	font-size: 40px;
+	color: white;
+	margin-top: 50px;
+	margin-left: 100px;
+	
+}
+
+p
+{
+	
+	font-size: 17px;
+	color: red;
+}
+
+h3
+{
+	font-size: 25px;
+	color: Yellow;
+	text-align: center;
+}
+
+.glyphicon-pencil
+{
+		font-size: 35px;
+		color: green;
+		float: right;
+		margin-top: 20px;
+	
+}
+
+.col-md-5
+{
+	margin-top: 25px;
+	width: 450px;
+	box-shadow: -1px 1px 60px 10px gray;
+	background: rgba(0, 0, 85, 0.4);
+	border-radius: 10px;
+}
+
+.label
+{
+	font-weight: normal;
+	margin-top: 20px;
+	color: white;
+	font-size: 18px;
+	
+}
+
+.form-control
+{
+	background-color: white;
+	border-radius: 0px;
+	border: 0px;
+	border: 1px solid white;
+	font-size: 18px;
+	height: 35px;
+	color: black;
+	text-align: left;
+	
+}
+
+input[type= "checkbox"]
+{
+		margin-top: 15px;
+		width: 15px;
+		height: 15px;
+		
+}
+
+small 
+{
+	font-size: 18px;
+	color: white;
+	
+}
+
+input[type= "radio"]
+{
+		margin-top: 22px;
+}		
+
+option
+{
+		color: gray;
+}
+
+.btn-info
+{
+	margin-top: 20px;
+	font-size: 18px;
+	width: 120px;
+	margin-left: 80px;
+	margin-bottom: 20px;
+}
+
+.btn-warning
+{
+	margin-top: 20px;
+	font-size: 18px;
+	width: 120px;
+	margin-bottom: 20px;
+	
+}
+
+.control-label
+{
+	text-align: left;
+	margin-top: 5px;
+}

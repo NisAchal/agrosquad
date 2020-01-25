@@ -1,0 +1,41 @@
+*{color: #fff;}
+
+.bg{
+	background: url(../images/login_page_background.jpg) no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	
+}
+
+.form-container{
+	border: 1px solid #fff; 
+	padding: 60px; 
+	margin-top: 15vh;
+	height: 410px;
+	
+	-webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+	box-shadow: -1px 4px 26px 11px rgba(0, 0, 0, 0.75);
+	
+}
+
+
+.form-control
+{
+	
+	background-color: white;
+	border-radius: 0px;
+	border: 0px;
+	border: 1px solid white;
+	font-size: 18px;
+	height: 35px;
+	color: black;
+	
+}
+
+#form_field
+{
+	margin-top: -50px;
+	
+}
